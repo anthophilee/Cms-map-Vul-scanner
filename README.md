@@ -1,0 +1,2 @@
+# Cms-map-Vul-scanner
+Cms map Vul scanner cms map is a tool used to find the vulnerabilities of websites such as joomla,dripal,wordpress with the help of this tool we can scan our site vulnerabilities and fix it,and stay safe and secure. Execute these commands one by one to install. Installation : $ apt update $ apt upgrade $ apt install git $ apt install python2 $ git clone https://github.com/Dionach/ CMSmap.git $ cd CMSmap $ chmod +x * usage : $ python2 cmsmap.py -h [it shows all options how we can use this tool]
